@@ -14,11 +14,11 @@ cd pycoingecko
 python3 setup.py install
 ```
 # Usage
-Run test.py from test folder, use a direcory to the folder test which located in python folder and run it with this command in cmd or other termianls
+Run test.py from test folder, use a direcory to the folder test and run it with this command in cmd or other termianls (src and test folders should be lockated in one package)
 ``` bash
 python test.py
 ```
-Or copy all code from assignment1 file which located in src folder that located in python folder
+Or copy all code from assignment1 file which located in src folder 
 # Examples
 You need to enter some number, for example, 4 and program will give top 4 cryptocurrencies by coingecko website:
 ```bush
