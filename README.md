@@ -1,5 +1,5 @@
 # Cryptocurrency Top Sorter
-
+By website pycoingecko, the top N cryptocurrencies are sorted out.
 
 # Installation
 
