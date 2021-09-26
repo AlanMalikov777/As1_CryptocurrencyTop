@@ -1,0 +1,2 @@
+python -> 3.0.0 + 
+pycoingecko -> 2.2.0
